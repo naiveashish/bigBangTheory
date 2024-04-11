@@ -24,10 +24,6 @@ Welcome to the Rock Paper Scissors Lizard Spock game! This is a variation of the
 - CSS
 - JavaScript
 
-## Preview
-
-![Preview](preview.png)
-
 ## Live Demo
 
-[Play the game](link-to-live-demo)
+[Play the game](https://naiveashish.github.io/bigBangTheory/)
